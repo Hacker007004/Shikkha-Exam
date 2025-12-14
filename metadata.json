@@ -1,0 +1,5 @@
+{
+  "name": "Exam Portal",
+  "description": "A secure exam portal that captures student details and scores, submitting results directly to Google Sheets.",
+  "requestFramePermissions": []
+}
